@@ -19,3 +19,4 @@ RBF method has been very popular in the empirical world, yet the proof of the co
 ## Preliminary Numerical Study: American Call Under Black-Scholes Equation
 - Rewrite the original BS equation into finite difference for $\frac{\partial C}{\partial \tau}$ and apply Radial Basis Function Method on BS differential operator. 
 - See the presentation slides for details.
+- See '1d-BS-hybrid' for Numerical test.
